@@ -70,3 +70,11 @@ for x in dfa_states_list:
             break
 
 print("\nFinal states of the DFA are : ", dfa_final_states)
+
+
+#No. of states : 3
+#No. of transitions : 2
+#state name : A
+#path : 0
+#Enter end state from state A travelling through path 0 : 
+#A
