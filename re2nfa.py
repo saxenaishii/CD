@@ -83,3 +83,4 @@ for i in range(j):
             print("q[{0},e]-->{1}".format(i,transition_table[i][2]))
         else:
             print("q[{0},e]-->{1} & {2}".format(i,int(transition_table[i][2]/10),transition_table[i][2]%10))
+#(a|b)*abb
